@@ -1,7 +1,7 @@
 ![Header](https://github.com/Donata777/Donata777/blob/main/assets/image.png)
 ## I'm a QA Engineer. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/14rxPdSG47HmLPYtWYyJX983tfRDvN0bL/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1--DbgfeQY4mOzwJlcAET-FwuIthyAlZX/view?usp=sharing)
 
 ### Tools
 ![Header](https://img.shields.io/badge/AllureTestops-090909?style=for-the-badge&logo=allureTestops&logoColor=136be1)
